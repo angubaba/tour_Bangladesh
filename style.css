@@ -1,0 +1,243 @@
+
+*{
+	border : 0;
+	margin : 0;
+}
+.navbar
+{
+  padding-bottom: 25px;
+
+}
+
+#navbar1
+{
+	font-size: 20px !important ;
+}
+
+.navbar-nav li
+{
+	padding-right: 20px;
+}
+
+.navbar h4
+{
+	float:left;
+	text-align:right;
+	background-color: #AFAFAF;
+
+}
+
+.carousel-caption
+{
+
+text-shadow: 1px 1px black;
+position : absolute;
+transform: translateY(-50%);
+}
+
+.jumbotron
+{
+	padding:20px;
+
+}
+
+
+.bg-image
+{
+  background-image: url('images2.jpg');
+background-size: 100%;
+padding:20px;
+padding-top: 10px;
+
+}
+
+.bg-image h4
+{
+	padding:40px;
+}
+
+.social a
+{
+	font-size: 40px;
+	padding: 20px;
+}
+
+.fa-facebook
+{
+	color:#3b5998;
+}
+
+.fa-instagram
+{
+	color:#517fa4;
+}
+
+.fa-youtube
+{
+	color:red;
+}
+
+.fa-twitter
+{
+	color:#00aced;
+}
+
+.fa-facebook:hover,.fa-twitter:hover,.fa-youtube:hover,.fa-instagram:hover
+{
+	color:#d5d5d5;
+}
+
+
+
+footer{
+  padding:10px;
+  padding-top: 20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#454545;
+  text-align:center;
+  border-top:#999999 4px solid;
+}
+
+.about_us
+{
+
+padding:10px;
+  margin-top:20px;
+  
+  background-color:#1e3140;
+  text-align: center;
+  border-top:#ffffff 4px solid;
+}
+
+.display-4
+{
+	padding:10px;
+	text-align:center;
+	color:#ffffff;
+}
+
+.full-image
+{
+	
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+
+.about-guide h2
+{
+	text-align:center;
+	color:#2F2F2F;
+	padding:20px;
+}
+
+.about-guide
+{
+	background-color:#C0C0C0;
+	padding:30px;
+	padding-top: 20px;
+}
+
+.story
+{
+	padding-top: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+
+}
+
+.display-5
+{
+ letter-spacing: 2px;
+ line-height: 10px;
+ color:#808080;
+}
+
+
+.heading
+{
+	float:center;
+	text-align:center;
+	color:#505050;
+	padding-top:25px;
+	letter-spacing:1px;
+	padding-bottom: 35px;
+	font-weight: 650;
+	font-size: 35px;
+
+}
+
+.trip-choice-paragraph
+{
+	float:center;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom: 35px;
+	font-weight: 750;
+	font-size: 40px;
+}
+
+.trip-choice-part1
+{
+	background-image: url("travel1011.jpg");
+	background-repeat: 
+}
+
+#h2_about_us
+{
+	text-align: center;
+	float: center;
+	letter-spacing: 1px;
+	color:#505050;
+}
+
+#para_rating
+{
+	text-align: center;
+	float: center;
+	padding:20px;
+	padding-left: 75px;
+}
+
+hr.new2
+{
+	padding:20px;
+	border: 4px solid black ;
+  width:80%;
+  padding-top: 20px;
+}
+
+#new1 {
+  border-top: 1px solid white;
+  width:80%;
+  color:#222222;
+}
+
+
+
+.display1
+{
+  text-align: center;
+	float: center;
+	letter-spacing: 1px;
+font-size:70px;
+
+
+position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+ width:50%;
+  padding: 50px; /* Some padding */
+
+}
